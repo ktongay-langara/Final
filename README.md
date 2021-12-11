@@ -31,7 +31,7 @@ Note the duplicate --.
 The first separates the parameters passed to the npm command itself and the following are passed to the test script.
 
 
-### How to test docker
+# How to test docker
 
 ## Build the docker file
 
@@ -39,13 +39,13 @@ The first separates the parameters passed to the npm command itself and the foll
 docker build -t <image_name>:<tag_name>
 ```
 
-## Run the docker command
+### Run the docker command
 
 ```
 docker run -it <image_name>:<tag_name>
 ```
 
-### Deliverable
+# Deliverables
 
 1. Test coverage atleast 80%
 2. Working Dockerfile
