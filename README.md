@@ -1,5 +1,5 @@
 # Final Exam - Section 2
-Objective: 
+## Objective: 
 1. Improve test coverage and achieve at least 80% test coverage
 2. Dockerize the app (No need to write github action or push to Docker hub, just write the dockerfile and test it locally, then push the file here)
 
@@ -39,7 +39,7 @@ The first separates the parameters passed to the npm command itself and the foll
 docker build -t <image_name>:<tag_name>
 ```
 
-### Run the docker command
+## Run the docker command
 
 ```
 docker run -it <image_name>:<tag_name>
