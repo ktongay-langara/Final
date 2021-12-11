@@ -1,7 +1,7 @@
-# Final Exam - Section 2
+# Final Exam - Section 2 (Total 10 Points)
 ## Objective: 
-1. Improve test coverage and achieve at least 80% test coverage
-2. Dockerize the app (No need to write github action or push to Docker hub, just write the dockerfile and test it locally, then push the file here)
+1. Improve test coverage and achieve at least 80% test coverage (5 points)
+2. Dockerize the app (No need to write github action or push to Docker hub, just write the dockerfile and test it locally, then push the file here) (5 points)
 
 Note: You can directly work on the main branch
 
